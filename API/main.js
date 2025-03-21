@@ -1,4 +1,4 @@
-import showData from "./showData.js";
+import showData from "./sowData.js";
 
-// Llamama la función que muestra los datos
+
 showData();
